@@ -1,5 +1,5 @@
 # url_to_pdf
-为url-to-pdf-api[https://github.com/alvarcarto/url-to-pdf-api]增加中文和https支持！
+为[url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api)增加中文和https支持！
 
 ## 使用说明
 
